@@ -1,0 +1,29 @@
+-- INSERT INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE, DONE)
+-- VALUES
+--
+--     (1, 'Bard', 'Learn a new programming language (Python)', '2024-05-20', FALSE),
+--     (2, 'Movie_Buff', 'Watch all the Best Picture nominees of the 2020s', '2024-12-31', FALSE),
+--     (3, 'Aspiring_Author', 'Start writing a short story collection', '2024-06-15', FALSE),
+--     (4, 'Curious_Coder', 'Build a mobile app to track personal finances', '2024-08-10', FALSE),
+--     (5, 'Tech_Innovator', 'Participate in a hackathon for social good', '2024-10-25', FALSE),
+--     (6, 'Volunteer_Extraordinaire', 'Organize a food drive for local shelters', '2024-04-20', FALSE),
+--     (7, 'Animal_Lover', 'Foster a dog for a local rescue organization', '2024-07-12', FALSE),
+--     (8, 'Book_Worm', 'Join a book club focused on historical fiction', '2024-09-01', FALSE),
+--     (9, 'Culinary_Adventurer', 'Master the art of baking sourdough bread', '2024-11-14', FALSE),
+--     (10, 'Aspiring_Scientist', 'Conduct a science experiment on plant growth', '2024-02-28', FALSE),
+--     (11, 'Aspiring_Musician', 'Learn to play the ukulele and perform a song', '2024-03-17', FALSE),
+--     (12, 'Aspiring_Doctor', 'Shadow a doctor at a local hospital', '2025-01-08', FALSE),
+--     (13, 'Aspiring_Astrophysicist', 'Attend a stargazing party and learn constellations', '2025-05-17', FALSE),
+--     (14, 'Movie_Buff', 'Host a themed movie night with friends (sci-fi edition)', '2025-02-14', FALSE),
+--     (15, 'Aspiring_Author', 'Take a creative writing workshop online', '2025-03-22', FALSE),
+--     (16, 'Curious_Coder', 'Build a website for a local non-profit organization', '2025-06-05', FALSE),
+--     (17, 'Tech_Innovator', 'Develop a smart home automation system prototype', '2025-08-08', FALSE),
+--     (18, 'Volunteer_Extraordinaire', 'Help plant trees in a local park', '2025-04-22', FALSE),
+--     (19, 'Animal_Lover', 'Volunteer at an animal shelter for a day', '2025-07-28', FALSE),
+--     (20, 'Book_Worm', 'Start a reading challenge with a friend (12 books in 3 months)', '2025-09-20', FALSE),
+--     (21, 'Culinary_Adventurer', 'Try a new cuisine from Southeast Asia', '2025-10-31', FALSE),
+--     (22, 'Aspiring_Scientist', 'Participate in a science fair at the local school', '2025-12-12', FALSE),
+--     (23, 'Aspiring_Musician', 'Perform at an open mic night at a local coffee shop', '2026-01-25', FALSE),
+--     (24, 'Aspiring_Doctor', 'Volunteer at a clinic offering free health checkups', '2026-02-20', FALSE),
+--     (25, 'Aspiring_Astrophysicist', 'Visit a planetarium and learn about the Milky Way galaxy', '2026-03-15', FALSE);
+--
